@@ -1,4 +1,4 @@
-# Olá, eu sou o Pablo! 🐱🌸
+# Olá, eu sou o Pablo! 🐱
 
 ![Profile Banner](https://github.com/pablosxz/https://media.tenor.com/BSM3ZfEkSH8AAAAC/cat-aesthetic.gif)
 
