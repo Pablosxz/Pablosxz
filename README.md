@@ -1,6 +1,6 @@
 # Olá, eu sou Pablo! 🐱
 
-![gato gif](https://media.tenor.com/BSM3ZfEkSH8AAAAC/cat-aesthetic.gif)
+![gato gif](/cat.gif)
 
 ## Sobre mim 👨‍💻
 
@@ -12,10 +12,6 @@ Sou um entusiasta de desenvolvimento rumo a me tornar um desenvolvedor fullstack
 - Frameworks: React
 - Banco de Dados: SQL
 - Ferramentas: Git, Node.js, Jupyter Notebook
-
-## Projetos Destacados 🌟
-
-### Decodificador Morse 🐾
 
 ## Contato 📬
 
