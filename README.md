@@ -17,9 +17,6 @@ Sou um entusiasta de desenvolvimento rumo a me tornar um desenvolvedor fullstack
 
 ### Decodificador Morse 🐾
 
-![Decodificador Screenshot](https://github.com/seuusuario/catflix-projeto/aqui-vai-a-url-da-imagem.jpg)
-
-
 ## Contato 📬
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos ou apenas bater um papo sobre gatos!
