@@ -1,6 +1,6 @@
 # Olá, eu sou Pablo! 🐱
 
-![Profile Banner](https://github.com/pablosxz/https://media.tenor.com/BSM3ZfEkSH8AAAAC/cat-aesthetic.gif)
+![gato gif](https://media.tenor.com/BSM3ZfEkSH8AAAAC/cat-aesthetic.gif)
 
 ## Sobre mim 👨‍💻
 
