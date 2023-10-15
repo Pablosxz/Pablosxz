@@ -15,7 +15,7 @@ Sou um entusiasta de desenvolvimento rumo a me tornar um desenvolvedor fullstack
 
 ## Contato 📬
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos ou apenas bater um papo sobre gatos!
+Fique à vontade para entrar em contato comigo para discutir colaborações e projetos!
 
 [Email](mailto:lucasrn03@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/pablosxz)
