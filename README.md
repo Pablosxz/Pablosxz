@@ -10,7 +10,7 @@ Sou um entusiasta de desenvolvimento rumo a me tornar um desenvolvedor fullstack
 
 - Linguagens: Python, JavaScript, PHP, Swift
 - Banco de Dados: MySQL
-- Ferramentas: Git, Node.js, Jupyter Notebook
+- Ferramentas: Git, Node.js.
 
 ## Contato 📬
 
