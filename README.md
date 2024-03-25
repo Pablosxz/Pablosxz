@@ -1,4 +1,4 @@
-# Olá, eu sou Pablo! 🐱
+# Olá, eu sou Pablo!
 
 ![gato gif](/cat.gif)
 
@@ -10,7 +10,7 @@ Sou um entusiasta de desenvolvimento rumo a me tornar um desenvolvedor fullstack
 
 - Linguagens: Python, JavaScript, C++, PHP, Swift
 - Banco de Dados: MySQL, MongoDB
-- Ferramentas: Git, Node.js.
+- Ferramentas: Node.js, Flask.
 
 ## Contato 📬
 
