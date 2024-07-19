@@ -8,9 +8,9 @@ Sou um entusiasta de desenvolvimento rumo a me tornar um desenvolvedor fullstack
 
 ## Tecnologias e Habilidades 🚀
 
-- Linguagens: Python, JavaScript, C++, PHP, Swift
+- Linguagens: Python, Java, JavaScript, C++, PHP, Swift
 - Banco de Dados: MySQL, MongoDB
-- Ferramentas: Node.js, Flask.
+- Ferramentas: Node.js, Flask, Spring Boot.
 
 ## Contato 📬
 
