@@ -4,13 +4,13 @@
 
 ## Sobre mim 👨‍💻
 
-Sou um entusiasta de desenvolvimento rumo a me tornar um desenvolvedor fullstack, com um foco especial em Python. Aqui você encontrará projetos, questões e experiências construídas ao longo dos meus estudos.
+Sou um entusiasta de desenvolvimento rumo a me tornar um desenvolvedor backend, com um foco especial em Python. Aqui você encontrará projetos, questões e experiências construídas ao longo dos meus estudos.
 
 ## Tecnologias e Habilidades 🚀
 
 - Linguagens: Python, Java, JavaScript, C++, PHP, Swift
-- Banco de Dados: MySQL, MongoDB
-- Ferramentas: Node.js, Flask, Spring Boot.
+- Banco de Dados: PostgreSQL, MySQL, MongoDB
+- Ferramentas: Node.js, Flask, Spring.
 
 ## Contato 📬
 
